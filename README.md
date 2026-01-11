@@ -1,4 +1,4 @@
-### Hello! 👍
+### Hello!
 ### [Welcome to my GitHub page.](https://joaosousa1.github.io/)
 
 IT professional, Linux user since 2004, with experience in leveraging the open-source ecosystem to develop efficient and scalable solutions. I have hands-on experience in Machine Learning, with an emphasis on fine-tuning and RAG (Retrieval-Augmented Generation). I apply Transfer Learning using models such as YOLOX and RF-DETR, in conjunction with OpenCV for image pre-processing and post-processing. Self-taught, with a strong commitment to continuous learning and to transforming ideas into robust software solutions.
