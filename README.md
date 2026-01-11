@@ -1,8 +1,19 @@
-### Olá! 👍
-### [Bem-vindo a minha GitHub page.](https://joaosousa1.github.io/) 😀
+### Hello! 👍
+### [Welcome to my GitHub page.](https://joaosousa1.github.io/)
 
-Sou um entusiasta de tecnologias de informação que utiliza Linux desde 2004 🐧 para programar. Tenho interesse por raspberry pi e tudo que é tecnologia open source. Gosto de "programar" (hobby) com "vanilla" Javascript, CSS e HTML5, mas também estou familiarizado com front-end Vue.js e React.js. No back-end gosto de Node.js e Mongodb, mas também gosto PHP e MySQL.
-No modo criativo só utilizo ferramentas open source como Blender, Inkscape, Gimp, Kdenlive, VScode e também sei como fechar o "VIM" 😂. Sou autodidata e tenho um pouco de conhecimento de Godot (GDScript) que já utilizei em pequenas apps publicadas no Android Google Play.
+IT professional, Linux user since 2004, with experience in leveraging the open-source ecosystem to develop efficient and scalable solutions. I have hands-on experience in Machine Learning, with an emphasis on fine-tuning and RAG (Retrieval-Augmented Generation). I apply Transfer Learning using models such as YOLOX and RF-DETR, in conjunction with OpenCV for image pre-processing and post-processing. Self-taught, with a strong commitment to continuous learning and to transforming ideas into robust software solutions.
+
+#### Skills
+
+- System Thinking
+- Linux (Cli tools, Git, Docker)
+- Machine Learning (RAG, Fine Tunning com LoRA)
+- Computer vision ( Yolox, RF-DETR, OpenCV)
+- Python (FastAPI, Flask)
+- Javascript (Svelte framework)
+- Databases (PostgreSQL, SQLite)
+- PWA (html css javascript)
+- Raspberypi (basic hardware)
 
 <!--
 I’m currently in localhost but ready for port foward 🤓.
