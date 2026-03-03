@@ -2,9 +2,6 @@
 ### [Welcome to my GitHub page.](https://joaosousa1.github.io/)
 
 IT professional & Developer, Linux user since 2004, with experience in leveraging the open-source ecosystem to develop efficient and scalable solutions.
-Hands-on experience in Machine Learning, specializing in RAG (Retrieval-Augmented Generation) and model fine-tuning. I leverage Transfer Learning with architectures like YOLOX and RT-DETR, integrated with OpenCV for advanced image end-to-end processing. I am committed to continuous learning and transforming complex ideas into robust software.
-
-#### Skills
 
 - System Thinking
 - Linux (Cli tools, Git, Docker)
