@@ -13,7 +13,6 @@ Hands-on experience in Machine Learning, specializing in RAG (Retrieval-Augmente
 - Python (FastAPI, Flask)
 - Javascript (Svelte framework)
 - Databases (PostgreSQL, SQLite)
-- PWA (html css javascript)
 - Raspberypi (basic hardware)
 
 <!--
