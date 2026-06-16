@@ -6,7 +6,7 @@ IT professional & Developer, Linux user since 2004, with experience in leveragin
 - System Thinking
 - Linux (Cli tools, Git, Docker)
 - Machine Learning (RAG, Fine Tunning)
-- Computer vision ( Yolox, RF-DETR, DEOMv2, OpenCV)
+- Computer vision ( Yolox, RF-DETR, DEIMv2, OpenCV)
 - Python (FastAPI, Flask)
 - Javascript (Svelte framework)
 - Databases (PostgreSQL, SQLite)
