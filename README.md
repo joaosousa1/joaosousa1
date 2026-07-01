@@ -8,7 +8,6 @@ IT professional & Developer, Linux user since 2004, with experience in leveragin
 - Machine Learning (RAG, Fine Tunning)
 - Computer vision ( Yolox, RF-DETR, DEIM, OpenCV)
 - Python (FastAPI, Flask)
-- Javascript (Svelte framework)
 - Databases (PostgreSQL, SQLite)
 - Raspberypi (basic hardware)
 
